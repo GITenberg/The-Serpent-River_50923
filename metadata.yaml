@@ -1,10 +1,16 @@
 _repo: The-Serpent-River_50923
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50923-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilcox, Don
     gutenberg_agent_id: '46145'
     url: http://www.gutenberg.org/2009/agents/46145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50923#The-Serpent-River
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-14'
 gutenberg_type: Text
